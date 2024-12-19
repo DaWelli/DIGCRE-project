@@ -10,4 +10,4 @@ If you want to follow along visit the link below for a detailed installation gui
 
 Or if you are a visual learner like me have a look at this video tutorial:
 
- [Youtube tutorial by Creative Exploration /w Purz](https://www.youtube.com/watch?v=gj6ptjBojl0&t=4559s)
+ [Youtube tutorial by Creative Exploration /w Purz](https://youtu.be/gj6ptjBojl0)
