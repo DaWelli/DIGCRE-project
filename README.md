@@ -1,7 +1,7 @@
 # **Video Style conversion**
 DIGCRE project, by Dario Wellinger
 
-This repo contains examples of what I did with ComfyUI. I will split this guide in half for [Image2Image](https://github.com/DaWelli/DIGCRE-project/tree/main/Image2Image) and [Video2Video](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video) conversion.
+This repo contains examples of what I did with ComfyUI. I will split this dokumentation in half for [Image2Image](https://github.com/DaWelli/DIGCRE-project/tree/main/Image2Image) and [Video2Video](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video) conversion.
 
 ## **Installation**
 If you want to follow along visit the link below for a detailed installation guide:
