@@ -6,7 +6,7 @@ This repo contains examples and dokumentation of what I did with ComfyUI for my 
 
 ## **Project describtion**
 
-My project resolves around Style transfering input data, e.g. a movie clip as input and the output should looke like some sort of animation/anime.
+My project revolves around style transferring input data, such as a movie clip, to produce an output that resembles some form of animation or anime.
 
 ## **Inspiration**
 
