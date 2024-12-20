@@ -2,6 +2,12 @@
 
 This project implements Video2Video style transfer using a workflow. I've detailed each iteration in the respective folder; visit them for an overview. Below, I’ll provide a quick summary of the content in each folder’s README. I'll also provide the .json file for a quick copy & paste.
 
+## Version Navigation
+### Video2Video
+- [Version 1](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%201)
+- [Version 2](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%202)
+- [Version 3](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%203)
+
 ## Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
