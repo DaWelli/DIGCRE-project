@@ -14,7 +14,7 @@ I strongly recommend that you install ComfyUI Manager, this extension allows you
 
 ## Workflow Overview
 
-![Image2Image_workflow](https://github.com/user-attachments/assets/72647f4d-7e54-41b2-adb2-99cf3bc7ad00)
+![Image2Image_workflow](https://github.com/user-attachments/assets/44601eef-550f-4199-984f-894b4876869b)
 
 ## Work Explanations
 This section explains the workflow and some special remarks from me.
