@@ -173,8 +173,9 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 ## Output
 
-![](https://github.com/DaWelli/files/blob/master/Version3_output.mp4)
+![Test](https://github.com/DaWelli/files/blob/master/Version3_output.mp4)
 
 https://github.com/DaWelli/files/blob/master/Version3_output.mp4
-<img src="https://github.com/DaWelli/files/blob/master/Version3_output.mp4">
+
+<img src="https://github.com/DaWelli/files/blob/master/Version3_output.mp4" title="Version 3 Output" width="500"/>
 
