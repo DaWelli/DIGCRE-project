@@ -8,7 +8,6 @@
 - [Prerequisites](#prerequisites)
 - [Workflow Overview](#workflow-overview)
 - [Node Explanations](#node-explanations)
-- [Output](#output)
 
 ## Introduction
 This is the initial version of the Video2Video Style Transfer Project, showcasing a functional workflow for applying artistic styles to video input.
