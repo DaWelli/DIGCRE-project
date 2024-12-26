@@ -106,4 +106,8 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 ## Output
 
-https://github.com/user-attachments/assets/c63eeaa6-dba8-44a9-bfad-bddefd72dd72
+https://github.com/user-attachments/assets/48129232-3f23-4dd6-bfb0-0828b166f77f
+
+
+
+
