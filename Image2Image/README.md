@@ -23,3 +23,8 @@ First, I'll extract each frame with FFmpeg. Then, I’ll feed every single frame
 ## Conclusion to Image2Image
 
 I think I'll stick with Video2Video conversion. The process, although it takes longer, is much easier and smoother. I'm not really happy with the outputs due to the flickering and random style changes between the frames.
+
+<video width="640" height="480" controls>
+  <source src="https://github.com/DaWelli/DIGCRE-project/main/Image2Image/Outputs/Image2Image_Version1_output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
