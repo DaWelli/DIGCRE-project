@@ -22,9 +22,6 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 ## Workflow Overview
 ![Version1_workflow](https://github.com/user-attachments/assets/3db53a4d-b7c3-46d3-b046-61f1afaf3389)
 
-
-
-
 ## Node Explanations
 
 ### 1. Load Video (VideoHelperSuite)
@@ -55,7 +52,7 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Purpose**: Loads the ControlNet model used to guide artistic transformations.
 
-**Model**: `config_v1p_sd15_lineart_ph`
+**Model**: `config_v1p_sd15_lineart_pth`
 
 ### 5. Apply Advanced ControlNet
 
@@ -80,6 +77,7 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Parameters**:
 - `steps`: Number of processing steps, set to 21.
+- `sampler_name`: The Sampler to be used, set to dpmpp_2m.
 - `scheduler`: Noise scheduling method, set to karras.
 
 ### 8. AnimateDiff Loader
