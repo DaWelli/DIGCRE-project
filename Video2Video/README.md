@@ -1,6 +1,6 @@
 # Video2Video Style Transfer Project
 
-This project implements Video2Video style transfer using a workflow. I've detailed each iteration in the respective folder; visit them for an overview. Below, I’ll provide a quick summary of the content in each folder’s README. I'll also provide the .json file for a quick copy & paste.
+This project implements Video2Video style transfer using a workflow. I've detailed each iteration in the respective folder; visit them for an overview. Below, I’ll provide a quick summary of the content in each folder’s README. I'll also provide the .png file for a quick copy & paste, just drag it into your ComfyUI.
 
 ## Version Navigation
 ### Video2Video
