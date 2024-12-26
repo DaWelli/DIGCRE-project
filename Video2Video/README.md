@@ -13,7 +13,6 @@ This project implements Video2Video style transfer using a workflow. I've detail
 - [Prerequisites](#prerequisites)
 - [Workflow Overview](#workflow-overview)
 - [Node Explanations](#node-explanations)
-- [Output](#output)
 
 ## Introduction
 The Video2Video style transfer generates a stylized video by processing an original video using advanced AI models.
