@@ -9,7 +9,9 @@ My project revolves around style transferring input data, such as a movie clip, 
 
 ## **Inspiration**
 
-[Corridor Digitals Anime Rock, Paper, Scissors](https://www.youtube.com/watch?v=GVT3WUa-48Y)
+[![Corridor Digitals Anime Rock, Paper, Scissors](https://github.com/user-attachments/assets/f87fc16c-f409-4724-aa14-01af735553e7)](https://www.youtube.com/watch?v=GVT3WUa-48Y)
+
+Corridor Digitals Anime Rock, Paper, Scissors check it out! Click the image.
 
 ## **Installation**
 If you want to follow along, visit the link below for a detailed installation guide:
