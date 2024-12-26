@@ -173,6 +173,6 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 ## Output
 
-https://github.com/DaWelli/DIGCRE-project/blob/main/Video2Video/Version%203/Version3_output.mp4
+![](https://github.com/DaWelli/DIGCRE-project/blob/main/Video2Video/Version%203/Version3_output.mp4)
 
-
+<video src="https://github.com/DaWelli/DIGCRE-project/blob/main/Video2Video/Version%203/Version3_output.mp4" width="300" />
