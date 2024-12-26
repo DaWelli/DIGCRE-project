@@ -1,6 +1,6 @@
 # Video2Video Style Transfer Project
 
-This project implements Video2Video style transfer using a workflow. I've detailed each iteration in the respective folder; visit them for an overview. Below, I’ll provide a quick summary of the content in each folder’s README. I'll also provide the .png file for a quick copy & paste, just drag it into your ComfyUI.
+This project implements Video2Video style transfer using a workflow. I've detailed each iteration in the respective folder; visit them for an overview. Below, I’ll provide a quick summary of the content in each folder’s README. I'll also provide the .png file for a quick copy & paste, just drag it into your ComfyUI. I'll also provide my ouput in the each of the folders.
 
 ## Version Navigation
 ### Video2Video
@@ -27,6 +27,3 @@ This section contains the complete workflow.
 
 ## Node Explanations
 This section explains each added node in the current workflow. Repetition of node explanations is unavoidable since there are recurring nodes across workflows.
-
-## Output
-This section showcases the final output of this iteration.
