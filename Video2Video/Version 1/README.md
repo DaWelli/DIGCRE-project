@@ -70,8 +70,8 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 **Purpose**: Generates artistic style effects using natural language prompts.
 
 **Prompts**:
-- **Positive Prompt**: "Masterpiece, best quality, anime, cinematic..."
-- **Negative Prompt**: "Bad quality, NSFW, low-res..."
+- **Positive Prompt**: "masterpiece, best quality, old man crouching down next to 2 people, a man and a woman, landscape, red jeep in background, scenery, close up, oil painting, water color, cyberpunk, dystopian, anime, neon lights"
+- **Negative Prompt**: "bad quality, worst quality, nsfw, nude, lowres"
 
 ### 7. KSampler
 
