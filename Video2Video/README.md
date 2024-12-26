@@ -7,6 +7,8 @@ This project implements Video2Video style transfer using a workflow. I've detail
 - [Version 1](https://github.com/DaWelli/DIGCRE-project/blob/main/Video2Video/Version%201/README.md)
 - [Version 2](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%202/README.md)
 - [Version 3](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%203/README.md)
+- [Version 4](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%204/README.md)
+- [Version 5](https://github.com/DaWelli/DIGCRE-project/tree/main/Video2Video/Version%205/README.md)
 
 ## Contents
 - [Introduction](#introduction)
