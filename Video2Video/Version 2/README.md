@@ -89,8 +89,8 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 **Purpose**: Defines the artistic style using natural language prompts.
 
 **Prompts**:
-- **Positive Prompt**: "Masterpiece, best quality, anime, cinematic..."
-- **Negative Prompt**: "Bad quality, NSFW, low-res..."
+- **Positive Prompt**: "masterpiece, best quality, old man crouching down next to 2 people, a man and a woman, landscape, red jeep in background, scenery, close up, , anime, lineart, ghibli"
+- **Negative Prompt**: "bad quality, worst quality, lowres, multiple limbs, multiple fingers"
 
 ---
 
