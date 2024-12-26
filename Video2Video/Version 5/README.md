@@ -1,4 +1,4 @@
-# Video2Video Style Transfer Version 4
+# Video2Video Style Transfer Version 5
 
 ## Navigation
 - [Overview](https://github.com/DaWelli/DIGCRE-project/blob/main/Video2Video/README.md)
