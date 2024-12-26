@@ -22,7 +22,8 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 3. AnimateDiff Loader: For integrating animation-specific AI models.
 
 ## Workflow Overview
-![Version2](https://github.com/user-attachments/assets/0afcfeb7-944d-4a72-a27f-e81d92ac484d)
+![Version2_workflow](https://github.com/user-attachments/assets/970f58ca-e54c-4de7-8123-390d93253686)
+
 
 # Node Explanations
 
