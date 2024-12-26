@@ -2,8 +2,7 @@
 
 Because I also wanted to test of good Image2Image would be for my project I've also tried that.
 
-## Version Navigation
-### Video2Video
+### Navigation
 
 - [Main](https://github.com/DaWelli/DIGCRE-project/blob/main/README.md)
 
