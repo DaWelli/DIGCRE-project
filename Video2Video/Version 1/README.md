@@ -28,19 +28,9 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Purpose**: Uploads the video file for processing.
 
-**Parameters**:
-- `media_batch`: Specifies the video to be processed.
-- `frame_skip`: Defines how many frames to skip.
-- `extract_every`: Sets the interval for extracting frames from the video.
-
 ### 2. Upscale Image
 
 **Purpose**: Enhances the resolution of the extracted video frames.
-
-**Parameters**:
-- `width`: Output width, set to 1024.
-- `height`: Output height, set to 720.
-- `upscale_method`: Specifies the upscaling method, set to nearest-exact.
 
 ### 3. VAE Encode & Decode
 
@@ -58,14 +48,7 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Purpose**: Integrates the ControlNet model into the workflow and applies its effects to the video frames.
 
-**Parameters**:
-- `strength`: Controls how strongly the style is applied, set to 0.5.
-- `start_percent`: Sets the starting point for the style, set to 0.0.
-- `end_percent`: Sets the ending point for the style, set to 1.0.
-
 ### 6. CLIP Text Encode (Prompt)
-
-**Purpose**: Generates artistic style effects using natural language prompts.
 
 **Prompts**:
 - **Positive Prompt**: "masterpiece, best quality, old man crouching down next to 2 people, a man and a woman, landscape, red jeep in background, scenery, close up, oil painting, water color, cyberpunk, dystopian, anime, neon lights"
@@ -75,11 +58,6 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Purpose**: Processes the latent frames to apply the style specified by the prompts.
 
-**Parameters**:
-- `steps`: Number of processing steps, set to 21.
-- `sampler_name`: The Sampler to be used, set to dpmpp_2m.
-- `scheduler`: Noise scheduling method, set to karras.
-
 ### 8. AnimateDiff Loader
 
 **Purpose**: Loads the model used for animation-specific processing and frame interpolation.
@@ -88,14 +66,8 @@ To run this iteration successfully, ensure the following ComfyUI extensions are 
 
 **Purpose**: Combines the processed frames back into a video.
 
-**Parameters**:
-- `frame_rate`: Sets the output video frame rate, set to 30.
-- `format`: Specifies the output video format, set to .mp4.
-
 ---
 
 ### Output
 
-- **Input Video**: A regular video file provided by the user.
-- **Output Video**: A stylized video resembling anime or other artistic styles.
 - **Format**: .mp4, processed at 30 FPS (like my original clip).
