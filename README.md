@@ -21,3 +21,6 @@ If you want to follow along, visit the link below for a detailed installation gu
 Alternatively, if you are a visual learner like me, check out this video tutorial:
 
  [Youtube Tutorial by Creative Exploration /w Purz](https://youtu.be/gj6ptjBojl0)
+
+## **Output**
+Since my .mp4 files are to large to preview via Github, you'll have to download the raw files. They are in the "Output" folder, for each iteration.
